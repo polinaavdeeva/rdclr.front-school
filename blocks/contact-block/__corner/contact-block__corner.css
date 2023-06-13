@@ -1,0 +1,9 @@
+.contact-block__corner {
+    background-image: url(../../../images/уголочек-блока.svg);
+    position: absolute;
+    top: -18px;
+    left: 50%;
+    margin-left: -30px;
+    width: 60px;
+    height: 19px;
+}

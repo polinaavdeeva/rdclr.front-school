@@ -1,0 +1,16 @@
+@import url(../vendor/normolize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/contact-block/contact-block.css);
+@import url(../blocks/contact-block/__photo-container/contact-block__photo-container.css);
+@import url(../blocks/contact-block/__photo/contact-block__photo.css);
+@import url(../blocks/contact-block/__glasses-icon/contact-block__glasses-icon.css);
+@import url(../blocks/contact-block/__details-container/contact-block__details-container.css);
+@import url(../blocks/contact-block/__corner/contact-block__corner.css);
+@import url(../blocks/contact-block/__personal-info/contact-block__personal-info.css);
+@import url(../blocks/contact-block/__name/contact-block__name.css);
+@import url(../blocks/contact-block/__location-and-age/contact-block__location-and-age.css);
+@import url(../blocks/contact-block/__details-info/contact-block__details-info.css);
+@import url(../blocks/contact-block/__detail/contact-block__detail.css);
+@import url(../blocks/contact-block/__detail-icon/contact-block__detail-icon.css);
+@import url(../blocks/contact-block/__detail-link/contact-block__detail-link.css);

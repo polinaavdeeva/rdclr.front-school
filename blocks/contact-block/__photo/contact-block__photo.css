@@ -1,0 +1,5 @@
+.contact-block__photo {
+    height: 355px;
+    width: 322px;
+    object-fit: cover;
+}

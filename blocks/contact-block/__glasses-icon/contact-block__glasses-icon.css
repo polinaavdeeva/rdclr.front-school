@@ -1,0 +1,8 @@
+.contact-block__glasses-icon {
+    height: 65px;
+    width: 148px;
+    position: absolute;
+    top: 88px;
+    left: 75px;
+    transform: rotate(7deg);
+}

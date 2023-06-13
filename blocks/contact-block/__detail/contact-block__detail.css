@@ -1,0 +1,4 @@
+.contact-block__detail {
+    display: flex;
+    column-gap: 14px;
+}
