@@ -1,0 +1,9 @@
+.about-me-skills__point-container {
+    display: flex;
+    flex-direction: column;
+    font-family: 'TT Commons';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+}

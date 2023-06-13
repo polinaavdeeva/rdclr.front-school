@@ -1,0 +1,6 @@
+.about-me-skills {
+    display: flex;
+    flex-direction: column;
+    row-gap: 33px;
+    margin: 18px 0 33px;
+}

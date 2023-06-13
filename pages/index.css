@@ -1,6 +1,7 @@
 @import url(../vendor/normolize.css);
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/logo/logo.css);
 @import url(../blocks/contact-block/contact-block.css);
 @import url(../blocks/contact-block/__photo-container/contact-block__photo-container.css);
 @import url(../blocks/contact-block/__photo/contact-block__photo.css);
@@ -14,3 +15,14 @@
 @import url(../blocks/contact-block/__detail/contact-block__detail.css);
 @import url(../blocks/contact-block/__detail-icon/contact-block__detail-icon.css);
 @import url(../blocks/contact-block/__detail-link/contact-block__detail-link.css);
+@import url(../blocks/about-me-skills/about-me-skills.css);
+@import url(../blocks/about-me-skills/__about-me/about-me-skills__about-me.css);
+@import url(../blocks/about-me-skills/__skills/about-me-skills__skills.css);
+@import url(../blocks/about-me-skills/__block-corner/about-me-skills__block-corner.css);
+@import url(../blocks/about-me-skills/__resume-item/about-me-skills__resume-item.css);
+@import url(../blocks/about-me-skills/__resume-point/about-me-skills__resume-point.css);
+@import url(../blocks/about-me-skills/__point-container/about-me-skills__point-container.css);
+@import url(../blocks/about-me-skills/__point-title/about-me-skills__point-title.css);
+@import url(../blocks/about-me-skills/__point-subtitle/about-me-skills__point-subtitle.css);
+@import url(../blocks/about-me-skills/__skill-container/about-me-skills__skill-container.css);
+@import url(../blocks/about-me-skills/__skill-item/about-me-skills__skill-item.css);

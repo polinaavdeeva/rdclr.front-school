@@ -1,0 +1,9 @@
+.about-me-skills__block-corner {
+    position: absolute;
+    background-image: url(../../../images/уголок-блока-навыков.svg);
+    background-color: black;
+    top: -0.8px;
+    left: 56px;
+    width: 60px;
+    height: 20px;
+}
