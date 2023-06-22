@@ -2,3 +2,8 @@
     display: flex;
     column-gap: 14px;
 }
+
+.contact-block__detail:hover {
+    opacity: 0.6;
+    transition: opacity 0.3s ease;
+}

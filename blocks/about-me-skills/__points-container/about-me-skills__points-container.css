@@ -1,0 +1,5 @@
+.about-me-skills__points-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+}
