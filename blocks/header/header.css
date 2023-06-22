@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    justify-content: end;
+}
+
+@media (min-width: 360px) and (max-width: 1439px) {
+    .header {
+        justify-content: start;
+    }
+}

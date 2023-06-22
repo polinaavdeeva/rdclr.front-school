@@ -4,3 +4,11 @@
     width: 1006px;
     min-height: 637px;
 }
+
+@media (min-width: 360px) and (max-width: 1439px) {
+    .about-me-skills__skills {
+        width: 318px;
+        height: 566px;
+        padding-top: 16px;
+    }
+}

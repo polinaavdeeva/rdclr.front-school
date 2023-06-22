@@ -3,3 +3,10 @@
     width: 322px;
     object-fit: cover;
 }
+
+@media (min-width: 360px) and (max-width: 1439px) {
+    .contact-block__photo {
+        width: 320px;
+        height: 353px;
+    }
+}

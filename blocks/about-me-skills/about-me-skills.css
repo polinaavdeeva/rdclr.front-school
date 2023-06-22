@@ -4,3 +4,10 @@
     row-gap: 33px;
     margin: 18px 0 33px;
 }
+
+@media (min-width: 360px) and (max-width: 1439px) {
+    .about-me-skills {
+        margin-top: 40px;
+        row-gap: 24px;
+    }
+}

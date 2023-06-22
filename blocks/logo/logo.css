@@ -1,5 +1,10 @@
 .logo {
-    position: absolute;
-    top: 26px;
-    right: 41.09px;
+    display: flex;
+    margin-bottom: 8px;
+}
+
+@media (min-width: 360px) and (max-width: 1439px) {
+    .logo {
+        margin-bottom: 48px;
+    }
 }

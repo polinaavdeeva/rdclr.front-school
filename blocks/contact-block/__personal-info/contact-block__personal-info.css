@@ -4,3 +4,10 @@
     row-gap: 8px;
     margin: 40px 0px 40px 24px;
 }
+
+@media (min-width: 360px) and (max-width: 1439px) {
+    .contact-block__personal-info {
+        margin: 24px 0 32px 16px;
+        row-gap: 4px;
+    }
+}

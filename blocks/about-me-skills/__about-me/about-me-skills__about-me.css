@@ -7,3 +7,9 @@
     margin: 0;
     width: 690px;
 }
+
+@media (min-width: 360px) and (max-width: 1439px) {
+    .about-me-skills__about-me {
+        width: 320px;
+    }
+}

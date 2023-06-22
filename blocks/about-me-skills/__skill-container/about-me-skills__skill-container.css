@@ -1,7 +1,15 @@
-.about-me-skills__skill-container {
-    list-style: none;
-    display: flex;
-    flex-direction: row;
-    column-gap: 32px;
-    margin: 0;
-}
+    .about-me-skills__skill-container {
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        column-gap: 32px;
+        margin: 0;
+        padding-left: 52px;
+    }
+    
+    @media (min-width: 360px) and (max-width: 1439px) {
+        .about-me-skills__skill-container {
+            padding-left: 0;
+            column-gap: 16px;
+        }
+    }
